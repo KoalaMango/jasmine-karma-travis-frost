@@ -15,7 +15,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     // we are building the test environment in ./spec-bundle.js
-    //files: [ { pattern: '*.js', watched: false } ],
+    // files: [ { pattern: '*.js', watched: false } ],
     files: [
       '*.js'
     ],
